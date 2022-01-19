@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://selfcare.spectranet.com.ng/",
+    "viewportHeight": 800,
+    "viewportWidth": 1300,
+    "defaultCommandTimeout": 300000,
+    "pageLoadTimeout": 60000   
+}

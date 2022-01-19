@@ -1,0 +1,14 @@
+{
+  "name": "ebanqo",
+  "version": "1.0.0",
+  "description": "Login For Spectranet SelfCare ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basirat Aboyeji",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}

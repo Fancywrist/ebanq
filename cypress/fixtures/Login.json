@@ -1,0 +1,11 @@
+{
+    "userIdRadio": ".MuiFormGroup-root > :nth-child(2) > .MuiTypography-root",
+    "userId": "#userid",
+    "userIdValue":"16113650",
+    "password":"#password",
+    "passwordValue":"123456",
+    "loginButton":".MuiButton-containedPrimary > .MuiButton-label",
+    "manageProfile":".jss98 > .MuiButtonBase-root > .MuiButton-label",
+    "ManageProfile":"Manage Profile"
+
+}
